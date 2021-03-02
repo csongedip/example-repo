@@ -1,7 +1,7 @@
 # Example Repository
 This is a sample repo, hello world!
 
-This is an outer change.
+This is the last change.
 
 # What you learned
 Terminology
